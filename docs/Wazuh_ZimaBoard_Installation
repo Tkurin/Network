@@ -1,0 +1,38 @@
+# Installing Wazuh on ZimaBoard 832
+
+## Table of Contents
+1. Introduction](#1-introduction)
+2. Prerequisites](#2-prerequisites)
+3. ZimaBoard Preparation](#3-zimaboard-preparation)
+4. Wazuh Manager Installation](#4-wazuh-manager-installation)
+5. Wazuh Agent Installation (Example)](#5-wazuh-agent-installation-example)
+6. Initial Configuration](#6-initial-configuration)
+7. Verification and Testing](#7-verification-and-testing)
+8. Troubleshooting](#8-troubleshooting)
+9. Next Steps](#9-next-steps)
+
+## 1. Introduction
+*(Briefly explain what Wazuh is and why it's being installed on a ZimaBoard 832.)*
+
+*(List all necessary hardware, software, and knowledge, e.g., ZimaBoard 832, installed OS, SSH access, basic Linux knowledge.)*
+
+## 3. ZimaBoard Preparation
+*(Steps to get the ZimaBoard ready, such as OS updates, installing essential utilities, or setting up networking.)*
+
+## 4. Wazuh Manager Installation
+*(Detailed, step-by-step instructions for installing the Wazuh Manager, Indexer, and Dashboard components. This is where most of your screenshots will go.)*
+
+## 5. Wazuh Agent Installation (Example)
+ *(Instructions for installing a Wazuh agent on an example endpoint, like a Linux VM or another ZimaBoard.)*
+
+## 6. Initial Configuration
+*(Steps for basic configuration within Wazuh, such as agent groups or initial rules.)*
+
+## 7. Verification and Testing
+*(How to confirm the installation is working correctly, including checking service status and viewing events in the Wazuh Dashboard.)*
+
+## 8. Troubleshooting
+*(Common issues and their solutions.)*
+
+## 9. Next Steps
+   39 *(Ideas for further enhancements or integrations, like adding a firewall or IDS/IPS, which relates to your main project.)*
